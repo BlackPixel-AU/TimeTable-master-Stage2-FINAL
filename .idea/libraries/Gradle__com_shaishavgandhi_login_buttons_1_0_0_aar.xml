@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shaishavgandhi:login-buttons:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43dbb421cf0439148a43443e494b46f9/login-buttons-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43dbb421cf0439148a43443e494b46f9/login-buttons-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43dbb421cf0439148a43443e494b46f9/login-buttons-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shaishavgandhi/login-buttons/1.0.0/8fde4147d3b71833a43b641c94df12fa43153985/login-buttons-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shaishavgandhi/login-buttons/1.0.0/daab27fe865776c5f4c9538110bf3deddbcab786/login-buttons-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

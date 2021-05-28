@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:label="@string/socials">
+
+        <com.shaishavgandhi.loginbuttons.FacebookButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="Facebook"
+            android:text="@string/facebook"
+            android:textAlignment="center"
+            app:iconSize="30dp" />
+
+        <com.shaishavgandhi.loginbuttons.GoogleButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="Google"
+            android:text="@string/google"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            app:iconSize="30dp" />
+
+        <com.shaishavgandhi.loginbuttons.TwitterButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="Twitter"
+            android:text="@string/twitter"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            app:iconSize="30dp" />
+
+        <com.shaishavgandhi.loginbuttons.LinkedInButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="LinkedIn"
+            android:text="@string/linkedin"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            app:iconSize="30dp" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

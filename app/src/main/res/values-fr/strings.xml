@@ -1,0 +1,106 @@
+<resources>
+  <string name="app_name">Calendrier</string>
+  <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+  <string name="navigation_drawer_close">Fermer le panneau de navigation</string>
+  <string name="nav_header_title">Studio Android</string>
+  <string name="nav_header_desc">En-tête de navigation</string>
+  <string name="action_settings">Paramètres</string>
+  <!-- Fragments strings -->
+  <string name="monday">Lundi</string>
+  <string name="tuesday">Mardi</string>
+  <string name="wednesday">Mercredi</string>
+  <string name="thursday">Jeudi</string>
+  <string name="friday">Vendredi</string>
+  <string name="saturday">Samedi</string>
+  <string name="sunday">Dimanche</string>
+  <string name="select_snackbar">Veuillez sélectionner un élément.</string>
+  <string name="selected">Choisi</string>
+  <!-- Splash Activity strings -->
+  <string name="fluid_algorithms">Algorithmes Fluides</string>
+  <string name="good_morning">Bonjour</string>
+  <string name="good_afternoon">Bonne Après-midi</string>
+  <string name="good_evening">Bonne Soirée</string>
+  <string name="good_night">Bonne Nuit</string>
+  <string name="original_developers">Code original par Ulan Nurym et Sabith Pkc Mnr.</string>
+  <string name="rmit_developers">Code de projet par Joel Coutts, Taner Kurtulus et Hamish Storrie.</string>
+  <!-- Main Activity strings -->
+  <string name="timetable">Calendrier</string>
+  <string name="ulan_nurymov_gmail_com">ulan.nurymov@gmail.com</string>
+  <string name="seven_days_of_the_week">7 jours de la semaine</string>
+  <string name="subject">Matière</string>
+  <string name="field_error">le champ ne peut pas être vide!</string>
+  <string name="time_error">Le champ de temps ne peut pas être vide!</string>
+  <string name="week">Semaine</string>
+  <string name="delete">Effacer</string>
+  <string name="edit">Éditer</string>
+  <string name="school_website">Site Web de l\'école</string>
+  <string name="school_website_snackbar">Veuillez définir l\'URL du site Web de votre école dans les paramètres.</string>
+  <string name="add_subject">Ajouter un sujet</string>
+  <string name="edit_subject">Modifier le sujet</string>
+  <string name="teacher">Prof</string>
+  <string name="room">Chambre</string>
+  <string name="time">Temps</string>
+  <string name="save">Sauvegarder</string>
+  <string name="cancel">Annuler</string>
+  <string name="time_to_dialog">À:</string>
+  <string name="time_from_dialog">De:</string>
+  <string name="subject_dialog">Titre:</string>
+  <string name="teacher_dialog">Contacter:</string>
+  <string name="room_dialog">Chambre:</string>
+  <string name="select_time">Sélectionnez l\'heure</string>
+  <string name="select_color">Sélectionnez la couleur</string>
+  <string name="choose_time">Choisissez l\'heure</string>
+  <string name="choose_date">Choisissez la date</string>
+  <string name="choose_color">Choisissez la couleur</string>
+  <!-- Tasks (formally Homeworks) Activity strings -->
+  <string name="title_activity_homeworks">TâchesActivité</string>
+  <string name="homeworks">Tâches</string>
+  <string name="select_date">Sélectionner une date</string>
+  <string name="deadline_dialog">Date limite:</string>
+  <string name="deadline">Date limite</string>
+  <string name="description_dialog">La description:</string>
+  <string name="desctiption">Description</string>
+  <string name="date_error">Le champ de date ne peut pas être vide!</string>
+  <string name="edit_homework">Modifier la tâche</string>
+  <string name="add_homework">Ajouter une tâche</string>
+  <string name="deadline_snackbar">"Le champ Date limite ne peut pas être vide!</string>
+  <string name="date">Date</string>
+  <!-- Notes Activity strings -->
+  <string name="notes">Remarques</string>
+  <string name="title_dialog">Titre:</string>
+  <string name="add_note">Ajouter une note</string>
+  <string name="edit_note">Note éditée</string>
+  <string name="title_error">Le champ de titre ne peut pas être vide!</string>
+  <string name="title">Titre</string>
+  <string name="saved">Enregistré</string>
+  <!-- Contacts (formally Teachers) Activity strings -->
+  <string name="teachers">Contacts</string>
+  <string name="add_teacher">Ajouter le contact</string>
+  <string name="edit_teacher">Modifier le contact</string>
+  <string name="name_dialog">Nom:</string>
+  <string name="post_dialog">Poster:</string>
+  <string name="phonenumber_dialog">Téléphoner:</string>
+  <string name="email_dialog">E-mail:</string>
+  <string name="name">Nom</string>
+  <string name="phone_number">Numéro de téléphone</string>
+  <string name="post">Poster</string>
+  <string name="email">E-mail</string>
+  <!-- Events (formally Exams) Activity strings -->
+  <string name="exams">Événements</string>
+  <string name="add_exam">Ajouter un évènement</string>
+  <string name="date_dialog">Date:</string>
+  <string name="time_dialog">Temps:</string>
+  <!-- Settings Activity strings -->
+  <string name="sevendays_setting">Activer 7 jours de la semaine</string>
+  <string name="school_website_setting">Changer le site Web de l\'école</string>
+  <string name="school_website_setting_summary">Modifier l\'URL du site Web de votre école</string>
+  <!-- Notification -->
+  <string name="notification_title">Les leçons du jour</string>
+  <string name="do_not_have_lessons">Vous n\'avez pas de cours!</string>
+  <!-- Social Media -->
+  <string name="socials">Des médias sociaux</string>
+  <string name="facebook">Facebook</string>
+  <string name="google">Google</string>
+  <string name="twitter">Twitter</string>
+  <string name="linkedin">LinkedIn</string>
+</resources>
